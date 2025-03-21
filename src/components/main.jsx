@@ -35,8 +35,8 @@ const Main = () => {
             <p>In this project, I will select a website to redesign and recreate. I will start by identifying 
                  issues in the website design, then creating a visual style guide and multiple mockups of 
                 how the website should respond at different screen sizes. I will be redesigning the website with 
-                the intent of mitigating the issues discussed at the beginning. Finally, I will recreate the 
-                website according to my redesigns.</p>
+                the intent of mitigating the issues discussed. Finally, I will recreate the 
+                website following my redesigns.</p>
             <h1>Website Selection</h1>
             <p>I chose autonodyne.com because when I was searching through it while applying for jobs,
                  I found the experience to be inefficient and generally underdeveloped.
