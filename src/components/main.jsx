@@ -33,13 +33,13 @@ const Main = () => {
     <section className="main-container">
       <h1>Redesign Project</h1>
       <p>
-        This project will focus on redesigning and recreating a website. The
-        first step will involve identifying issues in the existing website
-        design. A visual style guide and multiple mockups will then be created
-        to demonstrate how the website should respond at different screen sizes.
-        The website will be redesigned with the goal of addressing the
-        identified issues, and the final step will involve implementing the
-        redesign based on the new design concepts.
+        This project will focus on redesigning and recreating a website to make
+        it more responsive and practical. The first step will involve
+        identifying issues in the existing website design. A visual style guide
+        and multiple mockups will then be created to demonstrate how the website
+        should respond at different screen sizes. The website will be redesigned
+        with the goal of addressing the identified issues, and the final step
+        will involve implementing the redesign based on the new design concepts.
       </p>
       <h1>Website Selection</h1>
       <p>
