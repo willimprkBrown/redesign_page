@@ -34,7 +34,7 @@ const Main = () => {
       <h1>Redesign Project</h1>
       <p>
         This project will focus on redesigning and recreating a website to make
-        it more responsive and practical. The first step will involve
+        it more responsive, clean, and practical. The first step will involve
         identifying issues in the existing website design. A visual style guide
         and multiple mockups will then be created to demonstrate how the website
         should respond at different screen sizes. The website will be redesigned
